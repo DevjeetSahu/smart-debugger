@@ -32,7 +32,20 @@ Smart Debugger is a CLI-based tool that simplifies the debugging process using L
 ```
 PERPLEXITY_API_KEY=your_api_key_here
 ```
+## 🛠️ Install Requirements
 
+Make sure you have Python installed. Then install the required dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+## 🚀 Run the Smart Debugger
+
+You can run the tool using:
+
+```bash
+python cli.py run --log error_logs/sample_error.txt --codebase ./tenzies
+```
 ---
 
 ## Future Improvements
