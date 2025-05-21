@@ -1,0 +1,3 @@
+Uncaught Error: Target container is not a DOM element.
+    at exports.createRoot (react-dom_client.js?v=6ebce59c:17994:17)
+    at main.jsx:6:1
