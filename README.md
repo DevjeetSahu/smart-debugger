@@ -44,7 +44,7 @@ pip install -r requirements.txt
 You can run the tool using:
 
 ```bash
-python cli.py run --log error_logs/sample_error.txt --codebase ./tenzies
+python main.py --log error_logs/sample_error.txt --codebase ./tenzies
 ```
 ---
 
